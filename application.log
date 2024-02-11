@@ -1,0 +1,19 @@
+2024-02-11 09:50:55,543  INFO [main] testcases.LoginPageTest:26 - Initialixe the web browser
+2024-02-11 09:51:11,830  INFO [main] testcases.LoginPageTest:34 - ---------------------test started----------------
+2024-02-11 09:51:12,518  INFO [main] testcases.LoginPageTest:26 - Initialixe the web browser
+2024-02-11 09:51:25,242  INFO [main] testcases.LoginPageTest:26 - Initialixe the web browser
+2024-02-11 09:54:22,283  INFO [main] testcases.LoginPageTest:26 - Initialize the web browser
+2024-02-11 09:54:36,173  INFO [main] testcases.LoginPageTest:34 - ---------------------Test Started----------------
+2024-02-11 09:54:36,240  INFO [main] testcases.LoginPageTest:37 - ---------------------Test Ended----------------
+2024-02-11 09:54:36,257  INFO [main] testcases.LoginPageTest:60 - ---------------------Test Execution ended----------------
+2024-02-11 09:54:37,075  INFO [main] testcases.LoginPageTest:62 - ---------------------uite from the browser----------------
+2024-02-11 09:54:37,083  INFO [main] testcases.LoginPageTest:26 - Initialize the web browser
+2024-02-11 09:54:51,148  INFO [main] testcases.LoginPageTest:43 - ---------------------Test Started----------------
+2024-02-11 09:54:51,312  INFO [main] testcases.LoginPageTest:46 - ---------------------Test Ended----------------
+2024-02-11 09:54:51,326  INFO [main] testcases.LoginPageTest:60 - ---------------------Test Execution ended----------------
+2024-02-11 09:54:51,676  INFO [main] testcases.LoginPageTest:62 - ---------------------uite from the browser----------------
+2024-02-11 09:54:51,679  INFO [main] testcases.LoginPageTest:26 - Initialize the web browser
+2024-02-11 09:55:06,584  INFO [main] testcases.LoginPageTest:52 - ---------------------Test Started----------------
+2024-02-11 09:55:32,188  INFO [main] testcases.LoginPageTest:54 - ---------------------Test Ended----------------
+2024-02-11 09:55:32,195  INFO [main] testcases.LoginPageTest:60 - ---------------------Test Execution ended----------------
+2024-02-11 09:55:32,723  INFO [main] testcases.LoginPageTest:62 - ---------------------uite from the browser----------------
